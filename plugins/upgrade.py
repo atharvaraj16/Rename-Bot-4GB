@@ -20,13 +20,13 @@ async def upgrade(bot,update):
 	Price Rs 179  ind /🌎 2.16$  per Month
 	
 	
-	Pay Using Upi I'd `madflixofficial@axl`
+	Pay Using Upi I'd `atharvarajmohite1610@okhdfcbank`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @calladminrobot"""
+        Payment To Admin @Otaku_Adda_Support_Bot"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("Admin",url = "https://t.me/calladminrobot")], 
-        			[InlineKeyboardButton("Phone Pay",url = "https://telegra.ph/file/7f959437f9375b313ed1c.jpg"),
+        			InlineKeyboardButton("Admin",url = "https://t.me/Otaku_Adda_Support_Bot")], 
+        			[InlineKeyboardButton("Phone Pay",url = "https://graph.org/file/5238c37ee1513add5bde2.jpg"),
         			InlineKeyboardButton("Paytm Wallet/UPI",url = "https://telegra.ph/file/30b3e45a02766803883cb.jpg")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
@@ -53,10 +53,10 @@ async def upgradecm(bot,message):
 	Pay Using Upi I'd `madflixofficial@axl`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @calladminrobot"""
+        Payment To Admin @Otaku_Adda_Support_Bot"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("Admin",url = "https://t.me/calladminrobot")], 
-        			[InlineKeyboardButton("Phone Pay",url = "https://telegra.ph/file/7f959437f9375b313ed1c.jpg"),
+        			InlineKeyboardButton("Admin",url = "https://t.me/Otaku_Adda_Support_Bot")], 
+        			[InlineKeyboardButton("Phone Pay",url = "https://graph.org/file/5238c37ee1513add5bde2.jpg"),
         			InlineKeyboardButton("Paytm Wallet/UPI",url = "https://telegra.ph/file/30b3e45a02766803883cb.jpg")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await message.reply_text(text = text,reply_markup = keybord)
 
