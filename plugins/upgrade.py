@@ -50,7 +50,7 @@ async def upgradecm(bot,message):
 	Price Rs 179  ind /🌎 2.16$  per Month
 	
 	
-	Pay Using Upi I'd `madflixofficial@axl`
+	Pay Using Upi I'd `atharvarajmohite1610@okhdfcbank`
 	
 	After Payment Send Screenshots Of 
         Payment To Admin @Otaku_Adda_Support_Bot"""
