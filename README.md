@@ -4,33 +4,23 @@
  <b><a href="https://t.me/filerenamexprobot" target="/blank">Rename Bot 4GB</a></>
 </h1>
 
-<p align="center">🤍 Thanks for Being Here 🤍</p>
+<p align="center">🩷 Thanks for Being Here 🩷</p>
 
 
 
 
 ### 🔥 ALL VARIABLES
 
-* `BOT_TOKEN`  - Get bot token from @BotFather
-
-* `API_ID` - From my.telegram.org 
-
-* `API_HASH` - From my.telegram.org 
-
-* `OWNER` - Admin user id.
-
-* `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com
-
+* `BOT_TOKEN` - Get bot token from <a href="https://t.me/BotFather" target="/blank">Bot Father</a>
+* `API_ID` - Get API ID from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a> 
+* `API_HASH` - Get API HASH from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
+* `OWNER` - Bot admin/owner user id.
+* `DB_URL` - Mongo Database URL from <a href="https://cloud.mongodb.com" target="/blank">Mongo DB</a>
 * `DB_NAME`  - Your database name from mongoDB.
-
-* `FORCE_SUBS` - Your force sub channel username `without @`
-
-* `BOT_PIC` - start message photo.
-
+* `FORCE_SUBS` - Your force sub channel username `without @` (Optional)
+* `BOT_PIC` - Start message photo. (Optional)
 * `STRING` - If you want to rename 4GB+ files.
-
-* `BOT_USERNAME` - Add bot username `without @`
-
+* `BOT_USERNAME` - Add bot username `without @` (Optional)
 * `LOG_CHANNEL` - A channel to log the activities of bot. Make sure bot is an admin in the channel.
 
 
@@ -38,23 +28,22 @@
 
 ### 📶 DEPLOYEMENT SUPPORT
 
-<details><summary>Deploy To Koyeb</summary>
+<summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
 <a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Rename-Bot-4GB&branch=main&name=rename-botz" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
-</details>
 
-<details><summary>Deploy To Heroku</summary>
+
+<summary>Deploy To Heroku</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Rename-Bot-4GB">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
-</details>
 
 
 
@@ -62,9 +51,8 @@
 
 ### 🥰 FEATURES
  - Renames very fast .
- - Support 4Gb Rename With Upgrade PLan .
+ - Support 4Gb Rename With Upgrade Plan .
  - Permanent Thumbnail support.
- - Force join for the user for use.
  - Supports Broadcasts.
  - Set custom caption.
  - Has a custom Start-up pic.
@@ -84,11 +72,11 @@
  
 `/delthumb` - To delete current thumbnail.
  
-`/set_caption` - set a custom caption.
+`/set_caption` - To set a custom caption.
  
-`/see_caption` - see your custom caption.
+`/see_caption` - To see your custom caption.
  
-`/del_caption` - delete custom caption.
+`/del_caption` - To delete custom caption.
 
 `/ping` - To Check Bot ping.
  
@@ -96,37 +84,45 @@
 
 `/donate` - To support developer.
  
-`/upgrade` - To view all plans with price list of BASIC - STANDARD - PRO.
+`/upgrade` - To view all plans with price list.
 
 
 
 
 ### ADMIN COMMAND
 
-`/users` - Use This Command To See Total Users [FOR ADMINS USE ONLY].
+`/users` - Use This Command To See Total Users [Admins Only].
 
-`/allids` - Use This Command To See All Users IDs [FOR ADMINS USE ONLY].
+`/allids` - Use This Command To See All Users IDs list [Admins Only].
  
-`/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
+`/broadcast` - Message Broadcast command [Admins Only].
 
-`/warn` - Use This Command To Send A Message To A User [FOR ADMINS USE ONLY].
+`/warn` - Use This Command To Send A Message To A User [Admins Only].
  
-`/ceasepower` - To Cease(downgrade) renaming capacity [FOR ADMINS USE ONLY].
+`/ceasepower` - To Cease (downgrade) renaming capacity [Admins Only].
  
-`/resetpower` - To Reset renaming capacity (to default 2GB)  [FOR ADMINS USE ONLY].
+`/resetpower` - To Reset renaming capacity (to default 2GB)  [Admins Only].
  
-`/addpremium` - To Upgrade user plan to BASIC - STANDARD - PRO  [FOR ADMINS USE ONLY].
+`/addpremium` - To Upgrade user plan [Admins Only].
 
-`/restart` - Use This Command To Cancel All Process And Restart The Bot [FOR ADMINS USE ONLY].
-
-
+`/restart` - Use This Command To Cancel All Process And Restart The Bot [Admins Only].
 
 
-#### 🧡 Respecting... 🧡
-- [🔥 JishuDeveloper](https://github.com/JishuDeveloper) 
-- [🔥 lntechnical](https://github.com/lntechnical2)
 
-### 🤩 Bots Channel
-<a href="https://t.me/madflix_bots">
-   <p>❣️ Madflix Botz 🔥</p>
-</a>
+### ❤️ RESPECTING ❤️
+- [JishuDeveloper](https://github.com/JishuDeveloper)
+- [Madflix Official](https://github.com/jishusinha) 
+- [lntechnical](https://github.com/lntechnical2)
+
+### 😍 BOTS CHANNEL 😍
+- [Madflix Botz](https://t.me/Madflix_Bots)
+- [Jishu Botz](https://t.me/JishuBotz)
+
+### 💕 CONTACT DEVELOPER 💕
+- [Jishu Developer](https://t.me/JishuDeveloper)
+- [Madflix Official](https://t.me/MadflixOfficials)
+
+### ☕ BUY ME A COFFEE ☕
+- [PayPal](https://paypal.me/jishudeveloper/2.50USD)
+- [PhonePe](https://graph.org/file/6822df5af3a2e80637172.jpg)
+- [UPI](https://graph.org/file/b831109be4acff5c966d2.jpg)

@@ -15,9 +15,9 @@
 
         "FORCE_SUBS": {
 
-            "description" : "Channel or Group user Name With @",
+            "description" : "Channel or Group user Name Without @",
 
-            "value" : "Madflix_Bots",
+            "value" : "",
 
             "required" : false
 
